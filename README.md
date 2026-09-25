@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Ahmed+Samy+%F0%9F%91%8B;AI+%2F+ML+Engineer+in+the+making;Computer+Vision+%7C+Deep+Learning+%7C+NLP;ECE+Graduate+%E2%86%92+AI+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Ahmed+Samy+%F0%9F%91%8B;AI+%2F+ML+Engineer;Computer+Vision+%7C+Deep+Learning+%7C+NLP" alt="Typing SVG" />
 
 ### AI/ML Engineer &nbsp;|&nbsp; Computer Vision &nbsp;|&nbsp; Deep Learning &nbsp;|&nbsp; AI Engineering
 
