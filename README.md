@@ -20,7 +20,7 @@
 ```python
 class AhmedSamy:
     def __init__(self):
-        self.role = "Aspiring AI / ML Engineer"
+        self.role = "AI / ML Engineer"
         self.background = "Electronics & Communication Engineering (AAST)"
         self.focus = ["Computer Vision", "Deep Learning", "NLP / LLMs", "AI Engineering"]
         self.experience = "Early-career, hands-on project experience"
@@ -30,7 +30,7 @@ class AhmedSamy:
 ```
 
 - 🎓 Electronics & Communication Engineering graduate (AAST)
-- 🤖 Building toward a career in AI/ML Engineering, with hands-on project experience
+- 🤖 Passionate about AI/ML Engineering, with hands-on project experience
 - 🧠 Focused on Computer Vision, Deep Learning, NLP/LLMs, and applied AI systems
 - ⚙️ Background spans both software and hardware — from embedded sensors to deployed APIs
 - 🚀 My graduation project combined AI, computer vision, sensors, backend, and mobile development
@@ -94,7 +94,7 @@ An end-to-end system that monitors athlete movement and physiological signals to
 
 **🩺 Doctor Pocket**
 LLM-powered medical Q&A assistant exploring retrieval-augmented generation for reliable health-related responses.
-`LLM` `RAG` `NLP`
+`Transformers` `Fine-tuning`
 
 </td>
 <td width="50%">
@@ -115,9 +115,9 @@ LLM-powered medical Q&A assistant exploring retrieval-augmented generation for r
 </td>
 <td width="50%">
 
-**💬 NLP / LLM Project**
-*Coming soon — placeholder for an upcoming NLP project.*
-`Transformers` `Fine-tuning`
+**📊 FinAI**
+*an AI-powered personal financial assistant combining Retrieval-Augmented Generation (RAG), semantic similarity search, deterministic financial calculators, rule-based financial intent detection, conversational memory, and Gemini-based natural-language generation.*
+`LLM` `RAG` `NLP`
 
 </td>
 </tr>
